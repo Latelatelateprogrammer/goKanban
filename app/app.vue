@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Welcome to the App</h1>
+    <h2>Welcome to the App</h2>
   </div>
 </template>
